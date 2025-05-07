@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-"Regular is perfectm just be authentic."- Osanason <br />
+"Regular is perfect, just be authentic."- Osanason <br />
 
 <p align="center">
 <a href="https://discord.com/users/.prcb"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
