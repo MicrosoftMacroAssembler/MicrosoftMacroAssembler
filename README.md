@@ -6,4 +6,4 @@
 "Just be authentic."- Osamason <br />
 
 <p align="center">
-<a href="https://discord.com/users/.prcb"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
+<a href="https://discord.com/users/hvlpvmx"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
