@@ -1,9 +1,16 @@
-
-![](https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true)
+<p align="center">
+  𝑱𝒖𝒔𝒕 𝒃𝒆 𝒂𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄. - 𝑶𝒔𝒂𝒎𝒂𝒔𝒐𝒏
 </p>
 
 <p align="center">
-"Just be authentic."- Osamason <br />
+  <img src="https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true" alt="Profile Views"/>
+</p>
 
 <p align="center">
-<a href="https://discord.com/users/hvlpvmx"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord">
+  <a href="https://discord.gg/GM4xmktmmv">
+    <img width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img width="50px" alt="VS19" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"/>
+  </a>
+</p>
