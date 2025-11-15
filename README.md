@@ -1,5 +1,5 @@
 <p align="center">
-  𝑱𝒖𝒔𝒕 𝒃𝒆 𝒂𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄. - 𝑶𝒔𝒂𝒎𝒂𝒔𝒐𝒏
+  𝒏𝒆𝒗𝒆𝒓 𝒍𝒐𝒔𝒆 𝒇𝒂𝒊𝒕𝒉 𝒊𝒏 𝒚𝒐𝒖𝒓 𝒅𝒓𝒆𝒂𝒎; 𝒘𝒐𝒓𝒌 𝒔𝒐 𝒉𝒂𝒓𝒅 𝒕𝒉𝒂𝒕 𝒚𝒐𝒖 𝒄𝒂𝒏'𝒕 𝒇𝒂𝒊𝒍. - 𝑶𝒔𝒂𝒎𝒂𝒔𝒐𝒏
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Non-MaskableInterrupt&color=d16ef4&abbreviated=true" alt="Profile Views"/>
